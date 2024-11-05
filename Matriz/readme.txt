@@ -1,3 +1,5 @@
+Código desenvolvido pelo aluno Gabriel van Loon Bode da Costa Dourado Fuentes Rojas, na disciplina SSC0951 - Desenvolvimento de Código Otimizado (SSC-ICMC-USP), no ano de 2020
+
 *** ARQUIVOS ***
 
  - matrix.cpp >> programa que recebe dois parâmetros: <N> <LoopType> e executa uma múltiplicação de dus matrizes NxN utilizando a técnica definida no segundo parâmetro
